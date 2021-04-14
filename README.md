@@ -6,10 +6,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### NETCOMP COMMANDS
 
+#### Extracting The Media
+
+Great [site](https://www.linuxuprising.com/2019/11/ffmpeg-extract-audio-from-video-in.html) overview.
+
 strip audio from video:<br>
 
 	ffmpeg -i input.mp4 -c copy -an no-sound-output.mp4
+	
+extract audio from video .. we want the audio<br>	
 
+	ffmpeg -i myvideo.mp4 -vn -acodec copy audio.ogg	
 
 ### Markdown
 
