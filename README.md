@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/dlocutor/dlocutor.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### NETCOMP COMMANDS
+### NETCOMP Reference
 
-#### Extracting The Media
+#### Manipulating Media
 
 Great [site](https://www.linuxuprising.com/2019/11/ffmpeg-extract-audio-from-video-in.html) overview.
 
