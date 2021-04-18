@@ -18,7 +18,9 @@ extract audio from video .. we want the audio<br>
 
 	ffmpeg -i myvideo.mp4 -vn -acodec copy audio.ogg	
 
-### Markdown
+#### CLI Marathon & Discoveries
+
+[ncdu article](https://www.cyberciti.biz/open-source/install-ncdu-on-linux-unix-ncurses-disk-usage/?utm_source=dlvr.it&utm_medium=twitter)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
